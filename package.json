@@ -8,6 +8,7 @@
     "npm": "7.x"
   },
   "scripts": {
+    "heroku-prebuild": "rm -rf node_modules",
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
     "start": "npm run build && cd server && node server.js",
     "server": "cd server nodemon server.js --ignore client",
