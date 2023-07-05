@@ -9,6 +9,7 @@ see mini project
 look at js folder install.js - DONE
 
 database.js TODOs
+one down, one to go here. 
 
 TODOS
 service worker needs to be updated
