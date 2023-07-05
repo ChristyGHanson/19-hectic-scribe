@@ -3,9 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
-    "engines": {
-        "node": "14^6"
-    },
+    
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
