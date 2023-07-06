@@ -1,27 +1,23 @@
-# 19-hectic-scribe
-
-
-
+The Hectic Scribe
 
 ## Table of Contents
 
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
   
 ## Description
   
-PWA browser text editor
-[Heroku deployment](https://mysterious-lake-10662-e4cbd682a51b.herokuapp.com/)
+PWA browser text editor.
+[Check out the app via Heroku](https://mysterious-lake-10662-e4cbd682a51b.herokuapp.com/)
   
 ## Installation
-  
-TBD
+
+Click the install button in the app to install the text editor to your desktop so you can use it offline.
+[Heroku deployment](https://mysterious-lake-10662-e4cbd682a51b.herokuapp.com/)
 
 ## Usage
   
@@ -30,10 +26,7 @@ Use this text editor to write/edit content.
 ## Contributing
   
 Contribute by submitting a pull request [here](https://github.com/ChristyGHanson/19-hectic-scribe/pulls).
-  
-## Tests
-  
-N/A.
+
   
 ## Questions
   
