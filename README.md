@@ -1,20 +1,42 @@
 # 19-hectic-scribe
 
-PWA browser text editor.
-Needs Heroku deployment
 
 
-TODOS
-see mini project
-look at js folder install.js - DONE
 
-database.js TODOs
-one down, one to go here. 
+## Table of Contents
 
-TODOS
-service worker needs to be updated
-client\src-sw.js
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-TODOS - DONE
-Webpack.config.js
-C:\Users\chrst\bootcamp\19-hectic-scribe\client\webpack.config.js
+  
+## Description
+  
+PWA browser text editor
+[Heroku deployment](https://mysterious-lake-10662-e4cbd682a51b.herokuapp.com/)
+  
+## Installation
+  
+TBD
+
+## Usage
+  
+Use this text editor to write/edit content.
+  
+## Contributing
+  
+Contribute by submitting a pull request [here](https://github.com/ChristyGHanson/19-hectic-scribe/pulls).
+  
+## Tests
+  
+N/A.
+  
+## Questions
+  
+For any further questions, message me on GitHub: [ChristyGHanson](https://github.com/ChristyGHanson)
+
+Alternatively, you can send me an email: [chrsthnsn@gmail.com](mailto:chrsthnsn@gmail.com)

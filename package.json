@@ -5,7 +5,7 @@
   "main": "server.js",
   "engines": {
     "node": "18.x",
-    "npm": "7.x"
+    "npm": "9.x"
   },
   "scripts": {
     "heroku-prebuild": "rm -rf node_modules",
